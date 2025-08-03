@@ -1,10 +1,7 @@
 # Portfolio-Website
-# 🌐 Praharsha Thota — Portfolio Website  
+# 🌐 Praharsha Thota — Portfolio Website   
 
-![Portfolio Banner](https://img.shields.io/badge/Portfolio-Live%20Now-blue?style=for-the-badge&logo=netlify&logoColor=white)  
-[![Portfolio](https://img.shields.io/badge/Visit-Website-success?style=for-the-badge&logo=google-chrome&logoColor=white)](https://praharshaportfolio.netlify.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/praharsha-thota)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/your-username)  
+[![🔴 Live Preview](https://img.shields.io/badge/Live%20Preview-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://praharshaportfolio.netlify.app)  
 
 ---
 
@@ -34,7 +31,14 @@ It’s designed to reflect my journey as a **Computer Science graduate** and an 
 
 ---
 
-## 📌 How to View Locally  
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+## 📬 Connect with Me  
+📧 **Email:** [praharshathota34@gmail.com](mailto:praharshathota34@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/praharsha-thota](https://www.linkedin.com/in/praharsha-thota)  
+🌐 **Portfolio:** [praharshaportfolio.netlify.app](https://praharshaportfolio.netlify.app) — *Click to explore my work!*  
+
+---
+
+✨ **_"Always learning. Let’s create and innovate together."_**  
+💡 *This portfolio is more than just a website — it’s a reflection of my skills, passion, and growth as a developer.*  
+
+
